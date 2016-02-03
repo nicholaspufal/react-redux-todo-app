@@ -1,0 +1,9 @@
+## React/Redux TODO app
+
+This code is entirely based on the lessons provided by Dan Abramov, which can be found [here](https://egghead.io/series/getting-started-with-redux).
+
+## How to run
+
+It uses Babel as a transpiler which is configured to support state-0 + React + ES2015.
+
+In order to build it just run `make build` (need a watch mechanism to do this automatically...) and open index.html in your browser.
